@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayush-Puri
 - 👀 I’m interested in Artificial Intelligence & Machine Learning
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me Email : ayushpuri@gmail.com
 -                    Instagram : ayush.puri
