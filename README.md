@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me Email : ayushpuri@gmail.com
--                    LinkedIn : [ayush.puri](https://www.linkedin.com/in/ayushpuri0913/)
+-                    LinkedIn : [ayush.puri](www.linkedin.com/in/ayushpurii)
 -                    Twitter : AyushPuri_
 
 <!---
