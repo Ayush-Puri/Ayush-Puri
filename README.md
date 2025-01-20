@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush-Puri
-- 👀 I’m interested in Artificial Intelligence & Machine Learning
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Backend Systems & AI
+- 🌱 I’m currently Apache Kafka & Spring Security
+- 💞️ I’m looking to collaborate on Spring Boot & Java
 - 📫 How to reach me Email : ayushpuri@gmail.com
 -                    LinkedIn : [ayush.puri](www.linkedin.com/in/ayushpurii)
 -                    Twitter : AyushPuri_
