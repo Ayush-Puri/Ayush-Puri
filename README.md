@@ -3,5 +3,6 @@
 -    I’m currently learning Apache Kafka & Spring AI
 -    I’m looking to collaborate on Spring Boot & Java
 - 📫 How to reach me Email : ayushpuri.work@gmail.com
-                      LinkedIn : [ayush.puri](www.linkedin.com/in/ayushpurii)
-                      Twitter : AyushPuri_
+
+  LinkedIn : [ayush.puri](www.linkedin.com/in/ayushpurii)
+  Twitter : AyushPuri_
